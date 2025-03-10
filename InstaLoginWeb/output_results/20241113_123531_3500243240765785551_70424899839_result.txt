@@ -1,0 +1,9 @@
+Based on the given inputs, this is a product. Here are the product details:
+
+name: Time-Marked Water Bottle
+colour: Purple, Yellow
+price: Not specified
+size: 32oz (900ml)
+weight: Not specified
+description: A water bottle with time markings to help track hydration throughout the day. Comes with motivational phrases for each hour.
+subcategory: Water Bottles (Hydration)

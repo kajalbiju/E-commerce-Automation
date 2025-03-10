@@ -1,0 +1,11 @@
+Based on the provided inputs, this is a product. Here are the product details:
+
+name: Headphones
+colour: Black
+price: Not specified
+size: Not specified
+weight: Not specified
+description: Comfortable and stylish headphones for every mood
+subcategory: Audio Accessories
+
+The image caption and Instagram caption both describe headphones, which are a product. However, the price, size, and weight are not specified in the given inputs.
